@@ -1,1 +1,3 @@
 Test file
+scipy
+numpy
